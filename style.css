@@ -1,0 +1,27 @@
+body
+{
+/*Posición del fondo: Centro*/   
+________________________: center;
+/*Tamaño de fondo: Cubrir toda la pantalla*/
+________________________: ____;
+}
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    /*Sombra de la caja*/
+box-shadow: 10px 10px 10px rgb(0, 255, 157);
+/*borde*/
+__________: 10px;
+}
